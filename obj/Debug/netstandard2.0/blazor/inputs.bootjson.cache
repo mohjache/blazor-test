@@ -1,0 +1,17 @@
+Debug
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/blazor-test.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Blazor.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Components.Browser.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Components.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.Extensions.DependencyInjection.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Microsoft.JSInterop.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Mono.Security.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/Mono.WebAssembly.Interop.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/mscorlib.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/System.ComponentModel.Annotations.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/System.Core.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/System.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/System.Net.Http.dll
+/Users/anaruherbert/Projects/blazor-test/obj/Debug/netstandard2.0/blazor/linker/blazor-test.pdb
+true
